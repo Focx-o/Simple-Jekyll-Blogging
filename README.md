@@ -1,6 +1,6 @@
 Ankan Biswas | Idle Life Vision
 ===============================
-                                                Copyright (c) 2013 Ankan Biswas
+Copyright (c) 2013 Ankan Biswas
 
 This is my source code for personal website, build and hosted with [Jekyll](http://jekyllrb.com/).
 I started this [project](http://www.ankanbiswas.in) as a part of my learning and curiosity.
@@ -20,7 +20,7 @@ You are not allowed to use anything therein without my permission:
 
 
 
-                                      All other directories and files are MIT Licensed.
+All other directories and files are MIT Licensed.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
@@ -40,7 +40,7 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-                                                            Read Me
+ Read Me
 
 If you find my code is your thing, a link back to [http://www.ankanbiswas.in](http://www.ankanbiswas.in) will really be appreciated.
 

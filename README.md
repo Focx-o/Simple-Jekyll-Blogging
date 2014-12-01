@@ -9,7 +9,7 @@ and providing his blog as a [reference](http://tom.preston-werner.com/).
 
 
 
-#License
+ #License
 
 The following directories and their contents are Copyright @ Ankan Biswas.
 You are not allowed to use anything therein without my permission:
@@ -20,7 +20,7 @@ You are not allowed to use anything therein without my permission:
 
 
 
-All other directories and files are MIT Licensed.
+ All other directories and files are MIT Licensed.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
@@ -40,9 +40,9 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
- Read Me
+  Read Me
 
-If you find my code is your thing, a link back to [http://www.ankanbiswas.in](http://www.ankanbiswas.in) will really be appreciated.
+If you find my code is your thing, a link back will really be appreciated.
 
 
 

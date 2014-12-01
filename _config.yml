@@ -1,0 +1,7 @@
+name: Ankan Biswas
+markdown: redcarpet
+timezone: Asia/Kolkata
+highlighter: true
+permalink: none
+paginate_path: "/archive/page:num"
+paginate: 10

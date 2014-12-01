@@ -1,0 +1,39 @@
+---
+layout: default
+title: Explore Topic
+---
+
+<div id="home">
+  <h1 align="center">Explore Topic</h1>
+  </br>
+  </br>
+<!--through the paginated posts -->
+{% for post in paginator.posts %}
+
+<ul class="topics" style="margin:0 auto;">
+<li>{{ post.date | date_to_string }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li> 
+ </ul> 
+
+{% endfor %}
+
+</div>
+
+<!-- Pagination links -->
+  <nav id="pagination" style="text-align:center;">
+    {% if paginator.previous_page %}
+      {% if paginator.previous_page == 1 %}
+      <a href="/archive/" title="Previous Page" >&laquo; Previous</a>
+      {% else %}
+      <a href="/archive/page{{ paginator.previous_page }}/" title="Previous Page">&laquo; Previous</a>
+      {% endif %}
+    {% endif %}
+    
+    {% if paginator.next_page %} 
+    <a href="/archive/page{{ paginator.next_page }}/" title="Next Page">Next &raquo;</a>
+    {% endif %} 
+  </nav>
+
+
+
+
+

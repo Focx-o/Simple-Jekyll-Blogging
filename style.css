@@ -1,0 +1,103 @@
+body {
+  font-family: ;
+  font: 22px/1.5 'Tangerine', cursive;
+  font-weight:bold;
+  background: url(/image/body.png);
+  color: black;
+  padding: 0;
+  margin: 0;
+  }
+ 
+.container {
+  width:97%;
+  margin: 0 auto;
+  padding:0;
+  cursor: url("/image/cursor/cursor.png"), auto;
+  }
+ 
+
+
+h1{
+font-family: 'Joti One', cursive;
+text-shadow: 0px 0px 5px red,0px 0px 5px red,0px 0px 15px darkred,0px 0px 25px darkred;
+color:black;
+font-size:40px;
+margin:0 ;
+padding:0;
+line-height:75%;
+}
+
+
+#a{
+text-shadow: 0px 0px 5px red,0px 0px 5px red,0px 0px 15px darkred,0px 0px 25px darkred;
+font-size:25px;
+}
+
+#b{
+color:black;
+font-size:20px;
+margin:0 auto;
+padding:0;
+}
+
+#c{
+text-shadow: 0px 0px 5px red,0px 0px 5px red,0px 0px 15px darkred,0px 0px 25px darkred;
+font-size:25px;
+}
+
+.navbar{
+ background: rgb(24,24,24);
+position:fixed;
+width:100%;
+left:0;
+ }
+
+.post{
+font-family:arial,sans-serif;
+margin-left:1em;
+margin-right:1em;
+text-align:left;
+color:grey;
+}
+
+.topics{
+font-size:30px;
+text-align:left;
+}
+
+.nav{
+text-align:right;
+float:right;
+}
+
+a{
+text-decoration:none;
+padding: 5px;
+color:white;
+outline:none;
+}
+
+a:hover{
+text-shadow: 0px 0px 5px red,0px 0px 5px red;
+}
+
+footer {
+  font-size: 0.65em;
+  text-align: center;
+  color:black;
+  }
+
+hr{
+border:0px none;
+height:2px;
+background:-moz-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.75),rgba(0,0,0,0));
+background:-ms-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.75),rgba(0,0,0,0));
+background:-webkit-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.75),rgba(0,0,0,0));
+background:-o-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.75),rgba(0,0,0,0));
+
+}
+
+ul{
+margin-left:1em;
+margin-right:1em;
+}

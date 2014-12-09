@@ -2,7 +2,7 @@ Ankan Biswas | Idle Life Vision
 ===============================
 Copyright (c) 2013 Ankan Biswas
 
-This is my source code for personal website, build and hosted with [Jekyll](http://jekyllrb.com/).
+This is my source code for first personal website(previous work), build and hosted with [Jekyll](http://jekyllrb.com/).
 I started this [project](http://www.ankanbiswas.in) as a part of my learning and curiosity.
 Many thanks to [mojombo](https://github.com/mojombo) for his awesome tutorial on [Jekyll](http://jekyllrb.com/)
 and providing his blog as a [reference](http://tom.preston-werner.com/).
